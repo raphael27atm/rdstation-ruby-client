@@ -59,7 +59,7 @@ module RDStation
 
   private
     def base_url
-      "https://www.rdstation.com.br/api/1.2"
+      "https://www.rdstation.com.br/api/1.3"
     end
 
     def rdstation_token_hash
